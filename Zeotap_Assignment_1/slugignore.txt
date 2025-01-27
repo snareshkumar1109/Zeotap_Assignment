@@ -1,3 +1,0 @@
-/Cirrhosis Stage Prediction.ipynb
-/Model Deployment.ipynb  
-/cirrhosis.csv 
